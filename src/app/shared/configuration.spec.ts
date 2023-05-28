@@ -1,5 +1,4 @@
 import { Configuration } from './configuration';
-import { expect } from '@jest/globals';
 
 describe('Configuration', () => {
   it('should instantiate correctly', () => {
